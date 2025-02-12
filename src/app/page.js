@@ -578,7 +578,7 @@ export default function Home() {
 
                 <div className="text-gray-500">
 
-                  拖拽文件到这里或将屏幕截图复制并粘贴到此处上传
+                  拖拽文件到这里或将屏幕截图复制并粘贴到此处上传（本站由 yxvm.com 赞助）
                 </div>
               </div>
             )}
